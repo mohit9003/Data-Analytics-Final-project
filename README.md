@@ -384,5 +384,5 @@ GitHub: [@mohit9003](https://github.com/mohit9003)
 ## ⭐ Project
 
 If you find this project useful or interesting, feel free to explore the repository and its different project deliverables.
-
+like
 **Made with 📊 data, 📈 analysis and 💡 business insights.**
